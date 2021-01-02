@@ -1,0 +1,3 @@
+*.csv
+*png
+.ipynb_checkpoints/movie-data-analysis-checkpoint.ipynb
